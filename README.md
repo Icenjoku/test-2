@@ -1,1 +1,2 @@
-# test-2
+# This file will print Hello, world!
+Print ('Hello, world!')
